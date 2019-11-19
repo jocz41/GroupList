@@ -1,0 +1,17 @@
+C:\Users\Sara\source\repos\Practica5\Practica5\bin\Debug\Practica5.exe
+C:\Users\Sara\source\repos\Practica5\Practica5\bin\Debug\Practica5.pdb
+C:\Users\Sara\source\repos\Practica5\Practica5\obj\Debug\Practica5.csprojResolveAssemblyReference.cache
+C:\Users\Sara\source\repos\Practica5\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\Practica5\Practica5\obj\Debug\Practica5.exe
+C:\Users\Sara\source\repos\Practica5\Practica5\obj\Debug\Practica5.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\bin\Debug\Practica5.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\bin\Debug\Practica5.pdb
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\obj\Debug\Practica5.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\obj\Debug\Practica5.exe
+C:\Users\Sara\Documents\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\obj\Debug\Practica5.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\bin\Debug\Practica5.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\bin\Debug\Practica5.pdb
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\obj\Debug\Practica5.csprojAssemblyReference.cache
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\obj\Debug\Practica5.exe
+C:\Users\sara_\Documents\SUBIR GITHUB\DAM\Desarrollo de Interfaces\Practica 5\Practica5\Practica5\obj\Debug\Practica5.pdb
